@@ -1,5 +1,1 @@
-# Celo Marketplace Dapp
-
-
-
 
